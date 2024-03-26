@@ -10,6 +10,9 @@ To write a program to find the maximum of a list of numbers.
 3.	Return the maximum value
 ## Program:
 
+#Developed by:M THEJESWARAN
+#Reg no:212223240168
+
 i)	# To find the maximum of marks using the list method sort.
 ```Python
 def max_marks(marks):
